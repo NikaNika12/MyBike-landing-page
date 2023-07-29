@@ -3,6 +3,7 @@ MyBike-landing-page
 This landing page is a personal site that contains blocks: “Header”, “About us”, “Compare bikes”, “The details” and “Contact us”. The project was developed on the basis of the training course "Mate Academy".
 
 DEMO LINK - [DEMO LINK](https://NikaNika12.github.io/MyBike-landing-page/)
+
 GITHUB REPOSITORY LINK - https://github.com/NikaNika12/MyBike-landing-page
 
 FIGMA DESIGN LINK - https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1
