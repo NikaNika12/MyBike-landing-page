@@ -17,3 +17,8 @@ Technology stack:
 - HTML5: BEM methodology, layout according to the layout in Figma;
 - CSS3 and SCSS preprocessor: grid layout, flexbox, positioning, adaptive UI, media queries;
 - JavaScript.
+
+Preview links:
+![image](https://github.com/NikaNika12/MyBike-landing-page/assets/102893905/f25d9a0b-ea4f-43a5-8a7c-17e6627fd3f9)
+![image](https://github.com/NikaNika12/MyBike-landing-page/assets/102893905/7e919528-ff8d-41c5-8077-494cf0b870c6)
+![image](https://github.com/NikaNika12/MyBike-landing-page/assets/102893905/04d95612-e25d-4d3c-a602-b1330a0c033e)
